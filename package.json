@@ -1,0 +1,20 @@
+{
+  "name": "edit-distance",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "eslint": "^8.10.0",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.6.2"
+  },
+  "scripts": {
+    "dev": "tsnd --respawn src/index.ts"
+  },
+  "repository": "github:dalekvim/editDistance",
+  "author": {
+    "name": "Vimal Vinod",
+    "email": "dalekvim@gmail.com"
+  }
+}
